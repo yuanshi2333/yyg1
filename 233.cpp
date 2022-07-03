@@ -5,5 +5,5 @@ int main(void){
 	int cee;
 	
 	cin >> cee;
-
+	cout << cee;
 }
