@@ -1,9 +1,18 @@
 #include <iostream>
+#include <climits>
+
+
+using namespace std;
+
+
 int main(void){
-	using namespace std;
-	cout << "nimade";
-	int cee;
 	
-	cin >> cee;
-	cout << cee;
+	cout << "nimade:";
+	unsigned int uns = INT_MAX;
+	cout << uns <<endl;
+	
+	cout << "×Ö·ûÎª£º";
+	char OneChar;
+	cin >> OneChar;  
+	
 }
